@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richrono
 - 👀 I’m interested in ...music
-- 🌱 I’m currently learning ...Java
+- 🌱 I’m currently learning ...Java, Ruby on Rails
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...secret
 
